@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Agentic AI**
 
-- 🌱 I’m currently learning **Generative AI, Transformers**
+- 🌱 I’m currently learning **Generative AI, Transformers, Agents**
 
 - 💬 Ask me about **Computer Vision, Neural Networks, pandas, numpy, sckit-learn**
 
