@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Agentic AI**
 
-- 🌱 I’m currently learning **Generative AI, Transformers, Agents**
+- 🌱 I’m currently learning **Generative AI, Transformers, AI Agents**
 
 - 💬 Ask me about **Computer Vision, Neural Networks, pandas, numpy, sckit-learn**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/janani v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janani v" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janani-venk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janani-venk" height="30" width="40" /></a>
 <a href="https://kaggle.com/janv123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="janv123" height="30" width="40" /></a>
 </p>
 
