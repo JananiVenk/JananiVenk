@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Generative AI, Transformers, AI Agents**
 
-- 💬 Ask me about **Computer Vision, Neural Networks, pandas, numpy, sckit-learn**
+- 💬 Ask me about **Computer Vision, Neural Networks, pandas, numpy, scikit-learn**
 
 - 📫 How to reach me **vjanani03@gmail.com**
 
