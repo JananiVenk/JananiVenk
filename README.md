@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janani Venkatramani</h1>
 <h3 align="center">ML Enthusiast</h3>
 
-- 🔭 I’m currently working on **Agentic AI**
+- 🔭 I’m currently pursuing **MEng in AI at UCLA**
 
 - 🌱 I’m currently learning **Generative AI, Transformers, AI Agents**
 
